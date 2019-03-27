@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "808724456425",
+    "firebase_url": "https://secondtutorialflutter.firebaseio.com",
+    "project_id": "secondtutorialflutter",
+    "storage_bucket": "secondtutorialflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808724456425:android:3abd2ca2efaaf2a5",
+        "android_client_info": {
+          "package_name": "com.elbatoul.flutter_slideshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808724456425-dn3evut2vo91un488as7ag3g5co5dqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZK_XqNuNKZ2_u_FqD9o2PVfGGHuHo0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808724456425:android:bc985fcf17954e62",
+        "android_client_info": {
+          "package_name": "com.example.flutter_slidshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808724456425-dn3evut2vo91un488as7ag3g5co5dqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZK_XqNuNKZ2_u_FqD9o2PVfGGHuHo0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808724456425:android:7b7b248085ae1eb5",
+        "android_client_info": {
+          "package_name": "com.example.second_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808724456425-dn3evut2vo91un488as7ag3g5co5dqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZK_XqNuNKZ2_u_FqD9o2PVfGGHuHo0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808724456425:android:29eb5d0d4f1bf66d",
+        "android_client_info": {
+          "package_name": "com.example.testingthetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808724456425-dn3evut2vo91un488as7ag3g5co5dqtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxZK_XqNuNKZ2_u_FqD9o2PVfGGHuHo0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
